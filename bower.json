@@ -47,7 +47,7 @@
     "install" : {
 
         "jquery.flexslider.js" : "httpdocs/assets/js/lib",
-        "main.js" : "httpdocs/assets/js/src"
+        "main-init.js" : "httpdocs/assets/js/src"
 
     }
 
